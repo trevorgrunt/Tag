@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Паззл", "Паззл.csproj", "{2CB0AB43-D8B6-4207-B157-D4D4F43808A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB0AB43-D8B6-4207-B157-D4D4F43808A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB0AB43-D8B6-4207-B157-D4D4F43808A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB0AB43-D8B6-4207-B157-D4D4F43808A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB0AB43-D8B6-4207-B157-D4D4F43808A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC67A4BA-3EF3-493E-8090-EACFFF6B941E}
+	EndGlobalSection
+EndGlobal

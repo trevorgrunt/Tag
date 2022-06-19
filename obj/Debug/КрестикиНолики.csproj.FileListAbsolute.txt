@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики_MarkupCompile.cache
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики_MarkupCompile.lref
+C:\Users\admin\source\repos\КрестикиНолики\bin\Debug\КрестикиНолики.exe.config
+C:\Users\admin\source\repos\КрестикиНолики\bin\Debug\КрестикиНолики.exe
+C:\Users\admin\source\repos\КрестикиНолики\bin\Debug\КрестикиНолики.pdb
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.g.resources
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.Properties.Resources.resources
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.exe
+C:\Users\admin\source\repos\КрестикиНолики\obj\Debug\КрестикиНолики.pdb
